@@ -1,0 +1,301 @@
+Crop,Disease,Temperature (°C),Humidity (%),Color,Impact
+Peach,Peach leaf curl,17-42,47-70,Red,Severe
+Rice,Barley scald,25-25,43-100,Red,Severe
+Soybean,Coffee leaf rust,39-20,82-82,Black,Mild
+Sunflower,Maize smut,38-24,75-75,Red,Mild
+Rice,Early blight,40-35,40-82,Orange,Severe
+Grapevine,Sunflower rust,29-30,54-99,Brown,Mild
+Strawberry,Early blight,38-45,78-100,Blue,Mild
+Peach,Peach leaf curl,14-36,58-91,Red,Moderate
+Cotton,Wheat blast,22-25,84-70,Red,Severe
+Cotton,Sugarcane smut,19-35,64-99,Blue,Severe
+Barley,Peanut smut,31-42,65-63,Yellow,Severe
+Wheat,Corn rust,39-33,52-91,Brown,Mild
+Apple,Peach leaf curl,28-25,66-74,Black,Moderate
+Potato,Maize smut,39-27,61-90,Blue,Mild
+Corn,Early blight,35-34,73-86,Orange,Mild
+Strawberry,Soybean rust,12-35,63-77,Green,Severe
+Grapevine,Soybean rust,36-33,57-66,Brown,Mild
+Cotton,Powdery mildew,19-16,65-82,Red,Mild
+Maize,Wheat blast,20-29,58-87,Blue,Mild
+Cocoa,Soybean rust,17-18,47-74,Yellow,Severe
+Coffee,Apple scab,38-30,45-96,Yellow,Moderate
+Tomato,Apple scab,35-35,64-71,Green,Severe
+Corn,Corn rust,38-32,80-67,Yellow,Mild
+Wheat,Strawberry leaf anthracnose,38-23,70-66,Red,Severe
+Sunflower,Cotton wilt,19-25,84-63,Yellow,Mild
+Sugarcane,Potato late blight,38-17,67-67,Orange,Mild
+Soybean,Sunflower rust,14-15,88-94,Orange,Severe
+Cotton,Sugarcane smut,39-26,74-76,Red,Severe
+Maize,Soybean rust,33-33,53-94,Brown,Severe
+Cotton,Corn rust,36-30,70-65,Green,Severe
+Soybean,Coffee leaf rust,10-17,71-83,Green,Severe
+Tomato,Soybean rust,10-30,44-84,Brown,Moderate
+Rice,Early blight,30-18,57-96,White,Moderate
+Oats,Early blight,14-18,49-69,Yellow,Severe
+Peach,Cocoa black pod,18-17,82-70,Orange,Moderate
+Peanut,Maize smut,19-18,59-84,Green,Moderate
+Sugarcane,Wheat blast,40-39,43-89,Orange,Severe
+Maize,Peach leaf curl,31-26,61-92,Blue,Moderate
+Oats,Apple scab,25-21,45-69,White,Moderate
+Peach,Sugarcane smut,14-44,51-66,Brown,Mild
+Sugarcane,Potato late blight,27-35,41-92,Yellow,Mild
+Potato,Cocoa black pod,21-31,61-68,Black,Mild
+Corn,Coffee leaf rust,40-20,45-73,Brown,Moderate
+Coffee,Bacterial leaf blight,10-19,62-72,Red,Moderate
+Peach,Coffee leaf rust,21-26,59-90,Blue,Mild
+Coffee,Early blight,37-34,78-73,Brown,Moderate
+Cocoa,Potato late blight,36-27,45-82,Orange,Mild
+Wheat,Maize smut,22-16,83-71,Orange,Moderate
+Strawberry,Peach leaf curl,29-24,57-61,Red,Severe
+Rice,Sugarcane smut,26-40,90-97,Green,Moderate
+Potato,Peach leaf curl,16-27,80-60,Black,Moderate
+Rice,Sunflower rust,11-17,67-76,Blue,Severe
+Corn,Soybean rust,12-16,85-75,Black,Mild
+Tomato,Sunflower rust,25-40,74-87,Black,Mild
+Corn,Apple scab,29-28,54-97,Brown,Moderate
+Potato,Peach leaf curl,37-44,89-76,White,Mild
+Apple,Soybean rust,37-16,62-90,Black,Moderate
+Apple,Soybean rust,22-16,66-70,Red,Severe
+Wheat,Cotton wilt,19-38,88-67,Brown,Moderate
+Corn,Peach leaf curl,33-34,50-67,Green,Moderate
+Barley,Maize smut,37-36,82-84,Yellow,Mild
+Wheat,Early blight,30-19,68-66,Green,Mild
+Oats,Wheat blast,20-32,40-95,Orange,Moderate
+Cotton,Powdery mildew,27-30,61-74,Yellow,Mild
+Barley,Bacterial leaf blight,23-45,73-62,Green,Moderate
+Cocoa,Bacterial leaf blight,36-22,73-76,Green,Mild
+Oats,Apple scab,32-21,77-82,Brown,Severe
+Maize,Sugarcane smut,22-15,56-77,Red,Mild
+Soybean,Powdery mildew,27-28,74-85,Red,Mild
+Rice,Soybean rust,14-22,68-69,Brown,Moderate
+Wheat,Peach leaf curl,25-35,89-82,Blue,Moderate
+Soybean,Wheat blast,16-37,78-73,Yellow,Severe
+Sugarcane,Cotton wilt,15-26,81-93,Green,Moderate
+Wheat,Cocoa black pod,23-31,88-89,Blue,Mild
+Oats,Cotton wilt,37-30,49-68,Yellow,Mild
+Rice,Maize smut,40-26,80-75,Green,Mild
+Grapevine,Powdery mildew,29-25,68-94,Orange,Severe
+Tomato,Soybean rust,37-43,75-86,Orange,Severe
+Apple,Maize smut,22-24,71-60,White,Mild
+Peanut,Cotton wilt,14-30,48-84,Brown,Mild
+Peanut,Peanut smut,11-39,51-85,Brown,Mild
+Potato,Corn rust,14-25,62-93,Red,Moderate
+Potato,Barley scald,16-15,89-82,Black,Mild
+Grapevine,Early blight,33-15,87-64,Brown,Mild
+Rice,Strawberry leaf anthracnose,32-24,81-61,Black,Severe
+Potato,Sunflower rust,23-29,68-93,Blue,Severe
+Grapevine,Coffee leaf rust,30-39,46-77,Blue,Moderate
+Wheat,Barley scald,12-22,75-67,Black,Mild
+Apple,Cotton wilt,36-36,61-96,Brown,Mild
+Apple,Powdery mildew,20-38,84-69,Yellow,Severe
+Peanut,Potato late blight,30-39,76-75,Green,Mild
+Barley,Apple scab,18-23,68-99,Brown,Moderate
+Wheat,Soybean rust,30-23,46-73,Orange,Moderate
+Sugarcane,Soybean rust,25-36,61-99,Yellow,Severe
+Cocoa,Barley scald,32-21,68-88,White,Severe
+Peanut,Corn rust,38-28,68-99,Red,Mild
+Peach,Sunflower rust,18-20,82-78,Red,Severe
+Maize,Peanut smut,32-20,81-83,Green,Moderate
+Cotton,Bacterial leaf blight,21-17,66-94,White,Moderate
+Maize,Bacterial leaf blight,27-32,90-64,Green,Moderate
+Grapevine,Peach leaf curl,29-26,82-70,White,Mild
+Apple,Peanut smut,25-30,76-78,Blue,Moderate
+Corn,Early blight,13-27,51-91,Red,Severe
+Soybean,Potato late blight,39-28,40-88,Black,Mild
+Coffee,Wheat blast,28-29,54-91,Green,Severe
+Wheat,Peach leaf curl,24-33,86-79,White,Moderate
+Oats,Strawberry leaf anthracnose,20-29,73-70,White,Moderate
+Peach,Cotton wilt,32-28,70-62,Brown,Severe
+Cotton,Sugarcane smut,25-24,81-82,Brown,Severe
+Maize,Coffee leaf rust,19-35,82-96,Orange,Mild
+Maize,Strawberry leaf anthracnose,37-21,58-99,Yellow,Mild
+Corn,Soybean rust,13-32,81-99,Blue,Severe
+Cotton,Wheat blast,11-27,44-72,Green,Severe
+Grapevine,Bacterial leaf blight,17-21,84-73,Black,Severe
+Strawberry,Peanut smut,40-25,50-65,Red,Severe
+Peach,Cotton wilt,37-22,46-100,Brown,Severe
+Potato,Apple scab,34-45,85-95,White,Severe
+Rice,Early blight,31-29,55-61,Brown,Mild
+Corn,Sugarcane smut,33-18,62-77,Brown,Severe
+Cocoa,Peanut smut,13-29,62-91,Red,Mild
+Wheat,Soybean rust,18-25,46-86,Brown,Severe
+Wheat,Barley scald,10-31,59-88,Yellow,Moderate
+Grapevine,Sunflower rust,22-37,50-100,Yellow,Moderate
+Rice,Wheat blast,13-28,69-88,Black,Severe
+Sunflower,Powdery mildew,18-16,40-73,Blue,Moderate
+Corn,Peach leaf curl,18-24,71-63,Red,Severe
+Oats,Cocoa black pod,25-25,64-90,Red,Mild
+Barley,Sugarcane smut,18-34,43-90,Yellow,Moderate
+Corn,Sugarcane smut,34-21,65-88,Blue,Severe
+Cotton,Sunflower rust,38-42,50-60,Yellow,Moderate
+Soybean,Potato late blight,23-20,70-80,Black,Severe
+Potato,Sunflower rust,22-33,85-73,Brown,Severe
+Maize,Sugarcane smut,15-31,69-96,Green,Severe
+Apple,Sugarcane smut,36-16,83-98,White,Severe
+Grapevine,Cotton wilt,11-35,54-85,Orange,Severe
+Peanut,Sunflower rust,37-24,71-66,Black,Moderate
+Sunflower,Corn rust,29-41,88-72,Orange,Moderate
+Rice,Powdery mildew,39-24,90-77,Black,Severe
+Peanut,Sunflower rust,32-26,64-88,Black,Severe
+Sugarcane,Barley scald,36-35,81-96,Red,Severe
+Wheat,Corn rust,34-23,74-97,Brown,Severe
+Rice,Sugarcane smut,22-24,60-80,Red,Moderate
+Sugarcane,Coffee leaf rust,25-31,78-96,Green,Moderate
+Wheat,Early blight,23-21,65-80,Black,Mild
+Barley,Barley scald,12-20,88-99,Green,Severe
+Maize,Peanut smut,23-42,43-100,Red,Severe
+Apple,Barley scald,28-39,71-75,Green,Severe
+Potato,Cotton wilt,13-37,87-67,Orange,Mild
+Apple,Soybean rust,21-21,76-63,Red,Moderate
+Potato,Coffee leaf rust,32-42,50-83,Green,Mild
+Apple,Powdery mildew,23-22,79-82,Orange,Severe
+Barley,Strawberry leaf anthracnose,16-30,49-95,Green,Severe
+Maize,Potato late blight,35-42,82-91,Orange,Severe
+Strawberry,Sugarcane smut,29-26,50-85,Black,Moderate
+Oats,Bacterial leaf blight,10-28,60-77,Brown,Severe
+Grapevine,Sugarcane smut,35-29,44-72,Green,Moderate
+Potato,Barley scald,16-25,50-73,Yellow,Moderate
+Peach,Corn rust,20-36,59-63,Brown,Mild
+Soybean,Sugarcane smut,30-42,41-73,White,Moderate
+Peach,Peanut smut,36-42,53-88,Brown,Severe
+Strawberry,Peach leaf curl,22-20,58-84,Brown,Moderate
+Cocoa,Cotton wilt,25-34,62-76,Brown,Severe
+Apple,Strawberry leaf anthracnose,25-23,49-92,White,Moderate
+Grapevine,Maize smut,11-38,82-100,Black,Mild
+Oats,Apple scab,26-25,74-81,Yellow,Moderate
+Corn,Strawberry leaf anthracnose,40-15,90-69,White,Severe
+Corn,Potato late blight,31-22,84-99,Black,Moderate
+Barley,Bacterial leaf blight,18-35,61-97,Blue,Moderate
+Maize,Strawberry leaf anthracnose,40-17,51-71,Brown,Severe
+Cotton,Peanut smut,13-15,79-65,Green,Severe
+Potato,Peanut smut,15-44,84-97,Blue,Moderate
+Cocoa,Peach leaf curl,30-40,70-70,Green,Severe
+Barley,Bacterial leaf blight,14-35,48-62,Green,Mild
+Tomato,Soybean rust,16-42,87-67,Black,Moderate
+Peach,Powdery mildew,31-29,85-69,Yellow,Moderate
+Coffee,Soybean rust,34-42,56-78,Blue,Moderate
+Peanut,Powdery mildew,26-42,48-66,Red,Moderate
+Soybean,Apple scab,23-41,69-62,Red,Severe
+Grapevine,Peach leaf curl,39-35,67-89,Yellow,Severe
+Corn,Strawberry leaf anthracnose,19-17,58-96,Brown,Mild
+Sugarcane,Barley scald,11-24,80-77,Yellow,Moderate
+Potato,Coffee leaf rust,12-43,57-76,Red,Moderate
+Potato,Corn rust,11-43,51-86,Green,Moderate
+Sugarcane,Maize smut,23-24,84-71,Red,Severe
+Peanut,Sunflower rust,39-22,41-95,Green,Severe
+Soybean,Coffee leaf rust,17-23,70-73,Blue,Moderate
+Rice,Strawberry leaf anthracnose,27-37,67-78,Black,Mild
+Peanut,Coffee leaf rust,32-20,63-88,Brown,Severe
+Peach,Cocoa black pod,30-41,42-67,Brown,Moderate
+Corn,Maize smut,22-40,47-93,Red,Severe
+Strawberry,Cocoa black pod,18-19,49-97,Orange,Moderate
+Soybean,Bacterial leaf blight,29-30,81-99,Black,Severe
+Apple,Powdery mildew,29-36,87-92,Green,Severe
+Soybean,Peach leaf curl,34-18,56-94,Brown,Mild
+Cocoa,Peanut smut,24-40,41-96,Blue,Mild
+Coffee,Sugarcane smut,19-16,53-90,White,Mild
+Cocoa,Peanut smut,21-25,52-83,White,Mild
+Apple,Maize smut,38-33,87-88,White,Severe
+Strawberry,Early blight,11-33,70-65,Orange,Moderate
+Oats,Cocoa black pod,12-43,51-63,Black,Moderate
+Maize,Peanut smut,18-25,42-100,Green,Mild
+Maize,Coffee leaf rust,37-44,70-99,Brown,Moderate
+Strawberry,Strawberry leaf anthracnose,33-35,45-67,Black,Mild
+Rice,Cocoa black pod,17-18,87-78,Green,Severe
+Potato,Cocoa black pod,24-40,82-97,Red,Severe
+Maize,Peach leaf curl,30-22,45-91,Black,Severe
+Cotton,Wheat blast,17-36,62-71,Red,Moderate
+Barley,Coffee leaf rust,11-43,88-95,Blue,Severe
+Peach,Sunflower rust,39-15,84-73,Yellow,Moderate
+Potato,Early blight,37-39,89-86,Red,Mild
+Potato,Early blight,15-24,68-65,Black,Mild
+Barley,Sunflower rust,18-17,68-82,Green,Severe
+Rice,Maize smut,37-19,69-79,Yellow,Severe
+Cotton,Strawberry leaf anthracnose,25-33,40-69,Red,Severe
+Rice,Corn rust,37-32,76-68,White,Mild
+Peach,Sunflower rust,21-40,48-95,Black,Moderate
+Barley,Cocoa black pod,28-31,77-94,Yellow,Moderate
+Rice,Cocoa black pod,37-25,43-76,Orange,Severe
+Corn,Maize smut,24-42,85-96,Black,Mild
+Potato,Sugarcane smut,33-27,63-92,Orange,Severe
+Apple,Barley scald,18-32,56-74,Brown,Moderate
+Soybean,Strawberry leaf anthracnose,28-43,47-98,Black,Severe
+Strawberry,Barley scald,36-43,45-88,Yellow,Moderate
+Soybean,Peach leaf curl,31-34,83-78,Blue,Severe
+Cotton,Cocoa black pod,10-21,57-88,Black,Mild
+Sugarcane,Powdery mildew,28-34,59-75,Yellow,Moderate
+Cotton,Cotton wilt,23-42,67-94,Red,Moderate
+Wheat,Coffee leaf rust,32-43,42-65,Blue,Moderate
+Sugarcane,Apple scab,12-17,76-92,Black,Moderate
+Coffee,Sugarcane smut,27-25,75-83,Orange,Moderate
+Peach,Peanut smut,34-38,63-63,Yellow,Severe
+Maize,Potato late blight,27-25,43-98,Black,Mild
+Cocoa,Early blight,14-22,70-70,Red,Mild
+Maize,Apple scab,30-33,84-63,Red,Mild
+Sugarcane,Bacterial leaf blight,34-42,74-73,Brown,Moderate
+Coffee,Potato late blight,25-42,65-75,Green,Severe
+Peach,Cotton wilt,20-24,56-94,Green,Severe
+Wheat,Strawberry leaf anthracnose,10-36,62-87,Orange,Mild
+Strawberry,Potato late blight,24-43,49-94,Blue,Moderate
+Tomato,Apple scab,11-23,52-97,Blue,Moderate
+Peach,Powdery mildew,27-40,66-89,Green,Mild
+Wheat,Barley scald,12-42,76-73,Orange,Severe
+Cocoa,Early blight,20-33,68-88,White,Severe
+Barley,Bacterial leaf blight,14-44,88-86,Orange,Moderate
+Sunflower,Maize smut,21-28,68-78,Yellow,Severe
+Cotton,Sunflower rust,40-38,47-80,Green,Mild
+Potato,Barley scald,29-24,60-73,Yellow,Moderate
+Tomato,Maize smut,26-40,48-94,Orange,Moderate
+Oats,Peanut smut,28-34,45-74,Yellow,Severe
+Cocoa,Sugarcane smut,30-26,69-71,Brown,Severe
+Maize,Soybean rust,39-27,80-98,Orange,Severe
+Strawberry,Sugarcane smut,29-29,89-78,Green,Mild
+Sunflower,Potato late blight,26-21,80-78,Brown,Severe
+Wheat,Coffee leaf rust,38-42,74-73,Yellow,Moderate
+Maize,Apple scab,16-41,66-90,Orange,Moderate
+Corn,Corn rust,30-40,49-77,White,Mild
+Cocoa,Potato late blight,30-22,69-85,Yellow,Moderate
+Soybean,Maize smut,35-44,50-83,Blue,Severe
+Grapevine,Strawberry leaf anthracnose,14-33,88-67,Orange,Mild
+Soybean,Sugarcane smut,10-34,86-75,Blue,Moderate
+Grapevine,Sunflower rust,26-27,69-97,Red,Mild
+Peanut,Peanut smut,25-19,40-68,White,Moderate
+Rice,Coffee leaf rust,13-31,71-62,Yellow,Moderate
+Maize,Strawberry leaf anthracnose,28-29,83-79,White,Moderate
+Peach,Powdery mildew,35-40,51-81,Green,Moderate
+Maize,Cotton wilt,33-39,60-63,Blue,Mild
+Peanut,Bacterial leaf blight,10-35,66-97,Green,Severe
+Oats,Apple scab,33-40,80-64,Black,Mild
+Oats,Peach leaf curl,20-15,86-90,Orange,Mild
+Strawberry,Strawberry leaf anthracnose,25-36,74-80,Green,Moderate
+Sunflower,Coffee leaf rust,13-32,63-80,Brown,Severe
+Wheat,Peach leaf curl,21-43,56-95,Orange,Mild
+Cotton,Cotton wilt,18-33,83-73,Red,Mild
+Wheat,Potato late blight,20-39,54-71,White,Mild
+Maize,Cocoa black pod,35-40,45-99,Blue,Mild
+Wheat,Potato late blight,35-32,87-65,Red,Severe
+Barley,Peanut smut,22-38,70-76,Blue,Mild
+Apple,Corn rust,31-45,85-66,Orange,Moderate
+Grapevine,Corn rust,20-31,90-74,Red,Moderate
+Coffee,Apple scab,23-34,46-91,Blue,Severe
+Grapevine,Corn rust,11-37,50-60,Green,Mild
+Sugarcane,Cotton wilt,40-19,62-65,Brown,Mild
+Rice,Corn rust,20-45,81-76,Brown,Severe
+Corn,Cotton wilt,35-24,50-98,Yellow,Severe
+Apple,Peach leaf curl,19-25,89-85,Black,Moderate
+Peanut,Coffee leaf rust,14-25,79-96,Green,Moderate
+Soybean,Barley scald,26-33,45-61,Black,Mild
+Maize,Cotton wilt,36-43,40-83,Red,Moderate
+Peanut,Corn rust,37-20,78-85,Orange,Severe
+Barley,Strawberry leaf anthracnose,17-37,56-86,Yellow,Mild
+Strawberry,Cotton wilt,11-17,79-86,Blue,Severe
+Maize,Soybean rust,16-22,50-75,Blue,Severe
+Sunflower,Corn rust,24-19,74-98,White,Moderate
+Apple,Bacterial leaf blight,19-17,40-89,Black,Severe
+Tomato,Sunflower rust,36-30,58-86,Blue,Moderate
+Potato,Soybean rust,25-20,40-100,Green,Moderate
+Strawberry,Soybean rust,14-44,63-81,Blue,Mild
+Potato,Coffee leaf rust,20-21,70-76,Brown,Mild
+Maize,Sunflower rust,11-27,89-76,Yellow,Moderate
+Cotton,Coffee leaf rust,36-16,82-97,Black,Severe

@@ -1,0 +1,89 @@
+Note - contains results for random forest(rf), gradient boosting(gb), KNN, stacking ensemble(rf and gb) and Stacking ensemble(SVm and LR)
+svm - support vector machine, LR - Linear regression
+
+
+Random Forest Accuracy: 0.36
+Gradient Boosting Accuracy: 0.29333333333333333
+kNN Accuracy: 0.38666666666666666
+Stacking Ensemble Accuracy: 0.4
+svc and lr stacking ensemble accuracy:  0.24
+
+Random Forest MSE: 1.44
+Gradient Boosting MSE: 1.4666666666666666
+kNN MSE: 1.4133333333333333
+Stacking Ensemble MSE: 1.16
+svc and lr stacking ensemble mse:  1.48
+
+
+Random Forest Report:               precision    recall  f1-score   support
+
+           0       0.36      0.31      0.33        29
+           1       0.39      0.29      0.33        24
+           2       0.34      0.50      0.41        22
+
+    accuracy                           0.36        75
+   macro avg       0.36      0.37      0.36        75
+weighted avg       0.36      0.36      0.36        75
+
+Gradient Boosting Report:               precision    recall  f1-score   support
+
+           0       0.37      0.24      0.29        29
+           1       0.22      0.17      0.19        24
+           2       0.29      0.50      0.37        22
+
+    accuracy                           0.29        75
+   macro avg       0.29      0.30      0.28        75
+weighted avg       0.30      0.29      0.28        75
+
+kNN Report:               precision    recall  f1-score   support
+
+           0       0.46      0.38      0.42        29
+           1       0.45      0.38      0.41        24
+           2       0.29      0.41      0.34        22
+
+    accuracy                           0.39        75
+   macro avg       0.40      0.39      0.39        75
+weighted avg       0.41      0.39      0.39        75
+
+Stacking Ensemble Report:               precision    recall  f1-score   support
+
+           0       0.43      0.31      0.36        29
+           1       0.39      0.50      0.44        24
+           2       0.39      0.41      0.40        22
+
+    accuracy                           0.40        75
+   macro avg       0.40      0.41      0.40        75
+weighted avg       0.40      0.40      0.40        75
+
+Stacking Ensemble(svc and lr) Report:               precision    recall  f1-score   support
+
+           0       0.31      0.17      0.22        29
+           1       0.29      0.42      0.34        24
+           2       0.12      0.14      0.13        22
+
+    accuracy                           0.24        75
+   macro avg       0.24      0.24      0.23        75
+weighted avg       0.25      0.24      0.23        75
+
+
+
+Random Forest Confusion Matrix:
+ [[ 9  8 12]
+ [ 8  7  9]
+ [ 8  3 11]]
+Gradient Boosting Confusion Matrix:
+ [[ 7  8 14]
+ [ 7  4 13]
+ [ 5  6 11]]
+kNN Confusion Matrix:
+ [[11  5 13]
+ [ 6  9  9]
+ [ 7  6  9]]
+Stacking Ensemble Confusion Matrix:
+ [[ 9 13  7]
+ [ 5 12  7]
+ [ 7  6  9]]
+Stacking Ensemble svc and lr confusion matrix:
+ [[ 5 12 12]
+ [ 5 10  9]
+ [ 6 13  3]]

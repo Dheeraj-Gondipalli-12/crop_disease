@@ -1,0 +1,126 @@
+Note - contains results for random forest(rf), gradient boosting(gb), KNN,support vector machine(SVM), Linear regression(LR), stacking ensemble(rf and gb) and Stacking ensemble(SVm and LR)
+
+
+python random_forest.py
+Random Forest Accuracy: 0.38666666666666666
+Gradient Boosting Accuracy: 0.29333333333333333
+kNN Accuracy: 0.38666666666666666
+Svm accuracy:  0.29333333333333333
+linear regression:  0.28
+Stacking Ensemble Accuracy: 0.3333333333333333
+svc and lr stacking ensemble accuracy:  0.24
+
+
+Random Forest MSE: 1.3333333333333333
+Gradient Boosting MSE: 1.4666666666666666
+kNN MSE: 1.4133333333333333
+Stacking Ensemble MSE: 1.1066666666666667
+svm mse:  1.8666666666666667
+linear regression mse:  1.68
+svc and lr stacking ensemble mse:  1.48
+
+
+Random Forest Report:               precision    recall  f1-score   support
+
+           0       0.43      0.34      0.38        29
+           1       0.39      0.29      0.33        24
+           2       0.35      0.55      0.43        22
+
+    accuracy                           0.39        75
+   macro avg       0.39      0.39      0.38        75
+weighted avg       0.40      0.39      0.38        75
+
+Gradient Boosting Report:               precision    recall  f1-score   support
+
+           0       0.37      0.24      0.29        29
+           1       0.22      0.17      0.19        24
+           2       0.29      0.50      0.37        22
+
+    accuracy                           0.29        75
+   macro avg       0.29      0.30      0.28        75
+weighted avg       0.30      0.29      0.28        75
+
+kNN Report:               precision    recall  f1-score   support
+
+           0       0.46      0.38      0.42        29
+           1       0.45      0.38      0.41        24
+           2       0.29      0.41      0.34        22
+
+    accuracy                           0.39        75
+   macro avg       0.40      0.39      0.39        75
+weighted avg       0.41      0.39      0.39        75
+
+SVM Report:               precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00        29
+           1       0.00      0.00      0.00        24
+           2       0.29      1.00      0.45        22
+
+    accuracy                           0.29        75
+   macro avg       0.10      0.33      0.15        75
+weighted avg       0.09      0.29      0.13        75
+
+linear regression Report:               precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00        29
+           1       0.31      0.21      0.25        24
+           2       0.28      0.73      0.40        22
+
+    accuracy                           0.28        75
+   macro avg       0.20      0.31      0.22        75
+weighted avg       0.18      0.28      0.20        75
+
+Stacking Ensemble Report:               precision    recall  f1-score   support
+
+           0       0.35      0.28      0.31        29
+           1       0.24      0.29      0.26        24
+           2       0.43      0.45      0.44        22
+
+    accuracy                           0.33        75
+   macro avg       0.34      0.34      0.34        75
+weighted avg       0.34      0.33      0.33        75
+
+Stacking Ensemble(svc and lr) Report:               precision    recall  f1-score   support
+
+           0       0.31      0.17      0.22        29
+           1       0.29      0.42      0.34        24
+           2       0.12      0.14      0.13        22
+
+    accuracy                           0.24        75
+   macro avg       0.24      0.24      0.23        75
+weighted avg       0.25      0.24      0.23        75
+
+Random Forest Confusion Matrix:
+ [[10  8 11]
+ [ 6  7 11]
+ [ 7  3 12]]
+Gradient Boosting Confusion Matrix:
+ [[ 7  8 14]
+ [ 7  4 13]
+ [ 5  6 11]]
+kNN Confusion Matrix:
+ [[11  5 13]
+ [ 6  9  9]
+ [ 7  6  9]]
+SVM confusion matrix: [[ 0  0 29]
+ [ 0  0 24]
+ [ 0  0 22]]
+linear regression confusion matrix: [[ 0  5 24]
+ [ 1  5 18]
+ [ 0  6 16]]
+Stacking Ensemble Confusion Matrix:
+ [[ 8 15  6]
+ [10  7  7]
+ [ 5  7 10]]
+Stacking Ensemble svc and lr confusion matrix:
+ [[ 5 12 12]
+ [ 5 10  9]
+ [ 6 13  3]]
+
+ errors occurred: 
+ D:\ltsm\finalYearProject\Lib\site-packages\sklearn\metrics\_classification.py:1469: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+D:\ltsm\finalYearProject\Lib\site-packages\sklearn\metrics\_classification.py:1469: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+D:\ltsm\finalYearProject\Lib\site-packages\sklearn\metrics\_classification.py:1469: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))

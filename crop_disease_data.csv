@@ -1,0 +1,13 @@
+Crop,Disease,Temperature (°C),Humidity (%),Color,Impact
+Wheat,Wheat blast,25-30,70-80,Brown,Severe
+Rice,Bacterial leaf blight,28-32,80-90,Yellow,Moderate
+Maize,Maize smut,22-26,60-70,Black,Mild
+Soybean,Soybean rust,20-24,70-80,Orange,Severe
+Potato,Potato late blight,18-22,80-90,Brown,Moderate
+Tomato,Early blight,20-24,70-80,Brown,Mild
+Grapevine,Powdery mildew,25-30,60-70,White,Severe
+Apple,Apple scab,18-22,70-80,Black,Moderate
+Peach,Peach leaf curl,16-20,80-90,Red,Mild
+Strawberry,Strawberry leaf anthracnose,22-26,70-80,Brown,Severe
+Coffee,Coffee leaf rust,20-24,70-80,Yellow,Moderate
+Cocoa,Cocoa black pod,25-30,70-80,Brown,Severe
