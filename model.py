@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier, StackingClassifier
 from sklearn.neighbors import KNeighborsClassifier
-from sklearn.model_selection import train_test_split, KFold
+from sklearn.model_selection import train_test_split, KFold, GridSearchCV
 from sklearn.metrics import accuracy_score, mean_squared_error, classification_report, confusion_matrix
 from sklearn.preprocessing import LabelEncoder
 from sklearn.svm import SVC

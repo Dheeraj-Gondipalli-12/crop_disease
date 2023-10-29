@@ -1,0 +1,21 @@
+Best parameters for RandomForestClassifier:  {'n_estimators': 500, 'min_samples_leaf': 4, 'max_features': 'sqrt'}
+Best parameters for GradientBoostingClassifier:  {'subsample': 0.5, 'n_estimators': 300, 'max_depth': 1, 'learning_rate': 0.2}
+Best parameters for KNeighborsClassifier:  {'weights': 'uniform', 'n_neighbors': 12}
+Best parameters for SVC:  {'gamma': 'auto', 'C': 1000}
+Best parameters for LogisticRegression:  {'C': 1}
+
+Accuracy of Stacking Classifier on Test Data:  0.25333333333333335
+              precision    recall  f1-score   support
+
+           0       0.38      0.10      0.16        29
+           1       0.23      0.21      0.22        24
+           2       0.24      0.50      0.33        22
+
+    accuracy                           0.25        75
+   macro avg       0.28      0.27      0.24        75
+weighted avg       0.29      0.25      0.23        75
+
+Confusion Matrix:
+[[ 3  7 19]
+ [ 4  5 15]
+ [ 1 10 11]]
